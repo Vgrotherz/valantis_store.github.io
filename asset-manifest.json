@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/valantis_store.github.io/static/css/main.fe2fa580.css",
+    "main.js": "/valantis_store.github.io/static/js/main.d030567a.js",
+    "static/js/453.0d25d4c4.chunk.js": "/valantis_store.github.io/static/js/453.0d25d4c4.chunk.js",
+    "static/media/banner.jpg": "/valantis_store.github.io/static/media/banner.493f861de5b8052970ca.jpg",
+    "index.html": "/valantis_store.github.io/index.html",
+    "main.fe2fa580.css.map": "/valantis_store.github.io/static/css/main.fe2fa580.css.map",
+    "main.d030567a.js.map": "/valantis_store.github.io/static/js/main.d030567a.js.map",
+    "453.0d25d4c4.chunk.js.map": "/valantis_store.github.io/static/js/453.0d25d4c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2fa580.css",
+    "static/js/main.d030567a.js"
+  ]
+}
